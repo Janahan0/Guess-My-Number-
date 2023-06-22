@@ -3,7 +3,7 @@
 /// Guess My Number!
 // generate a random number between 1 and 20
 let secretNumber = Math.floor(Math.random() * 20) + 1;
-console.log(secretNumber);
+//console.log(secretNumber);
 
 // constant variable list
 const questionMarkDiv = document.querySelector('.number');
